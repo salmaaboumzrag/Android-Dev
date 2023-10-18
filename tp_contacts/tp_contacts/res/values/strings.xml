@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="hintName">Name</string>
+    <string name="edNameText" />
+    <string name="btnValidation">Validation</string>
+    <string name="hintFirstName">FirstName</string>
+    <string name="edNameFirstText"></string>
+    <string name="strBirthday">BirthDay</string>
+</resources>
